@@ -1,0 +1,36 @@
+{
+  "Headshot": "{blue}{0}{default} Just Head Shotted {red}{1} {default}from {yellow}{2}{default} meters and gained {3} credits!",
+  "NoScope": "{blue}{0}{default} Just No Scoped {red}{1} {default}from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "HeadshotNoScope": "{blue}{0}{default} Just No Scoped Head Shotted {red}{1} {default}from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "ThruSmoke": "{blue}{0}{default} Just killed {red}{1}{default} thru smoke {default}from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "ThruSmokeNoScope": "{blue}{0}{default} Just No Scoped {red}{1}{default} thru smoke {default}from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "ThruSmokeNoScopeHeadshot": "{blue}{0}{default} Just No Scope Headshotted {red}{1}{default} thru smoke {default}from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "ThruSmokeHeadshot": "{blue}{0}{default} Just Headshotted {red}{1}{default} thru smoke {default}from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+
+  "HeadshotNoCredits": "{blue}{0}{default} Just Head Shotted {red}{1} {default}from {yellow}{2}{default} meters!",
+  "NoScopeNoCredits": "{blue}{0}{default} Just No Scoped {red}{1} {default}from {yellow}{2}{default} meters!",
+  "HeadshotNoScopeNoCredits": "{blue}{0}{default} Just No Scoped Head Shotted {red}{1} {default}from {yellow}{2}{default} meters!",
+  "ThruSmokeNoCredits": "{blue}{0}{default} Just killed {red}{1}{default} thru smoke from {yellow}{2}{default} meters!",
+  "ThruSmokeNoScopeNoCredits": "{blue}{0}{default} Just No Scoped {red}{1}{default} thru smoke from {yellow}{2}{default} meters!",
+  "ThruSmokeNoScopeHeadshotNoCredits": "{blue}{0}{default} Just No Scope Headshotted {red}{1}{default} thru smoke from {yellow}{2}{default} meters!",
+  "ThruSmokeHeadshotNoCredits": "{blue}{0}{default} Just Headshotted {red}{1}{default} thru smoke }from {yellow}{2}{default} meters!",
+
+  "FlashBangThruSmokeNoScopeHeadshot": "{blue}{0}{default} Just killed {red}{1}{default} thru smoke + flashbangged + NoScope + Headshot from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "FlashBangThruSmokeHeadshot": "{blue}{0}{default} Just Headshotted {red}{1}{default} thru smoke while flashbangged from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "FlashBangNoScope": "{blue}{0}{default} Just No Scoped {red}{1}{default} while Flashbangged from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "FlashBangThruSmoke": "{blue}{0}{default} Just killed {red}{1}{default} thru smoke while Flashbangged from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "FlashBang": "{blue}{0}{default} Just killed {red}{1}{default} while Flashbangged from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+
+  "FlashBangThruSmokeNoScopeHeadshotNoCredits": "{blue}{0}{default} Just killed {red}{1}{default} thru smoke + Flashbangged + NoScope + Headshot from {yellow}{2}{default} meters!",
+  "FlashBangThruSmokeHeadshotNoCredits": "{blue}{0}{default} Just Headshotted {red}{1}{default} thru smoke while Flashbangged from {yellow}{2}{default} meters!",
+  "FlashBangNoScopeNoCredits": "{blue}{0}{default} Just No Scoped {red}{1}{default} while Flashbangged from {yellow}{2}{default} meters!",
+  "FlashBangThruSmokeNoCredits": "{blue}{0}{default} Just killed {red}{1}{default} thru smoke while Flashbangged from {yellow}{2}{default} meters!",
+  "FlashBangNoCredits": "{blue}{0}{default} Just killed {red}{1}{default} while Flashbangged from {yellow}{2}{default} meters!",
+
+  "MidAir": "{blue}{0}{default} Just killed {red}{1}{default} while MidAir from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+  "MidAirNoScope": "{blue}{0}{default} Just No Scoped {red}{1}{default} while MidAir from {yellow}{2}{default} meters and gained {green}{3}{default} credits!",
+
+  "MidAirNoCredits": "{blue}{0}{default} Just killed {red}{1}{default} while MidAir from {yellow}{2}{default} meters!",
+  "MidAirNoScopeNoCredits": "{blue}{0}{default} Just No Scoped {red}{1}{default} while MidAir from {yellow}{2}{default} meters!"
+
+}
