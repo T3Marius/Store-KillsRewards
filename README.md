@@ -3,6 +3,7 @@ Show messages in chat when players No Scope, Kills thrusmoke, Kills while flashe
 
 # Requires:
 https://github.com/schwarper/cs2-store
+
 https://github.com/roflmuffin/CounterStrikeSharp
 
 # Config
